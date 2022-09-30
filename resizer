@@ -1,0 +1,8 @@
+#!/bin/bash
+
+for icon in ./assets/icons/*
+do
+	convert $icon -resize 40x40 $icon
+done
+
+#convert -background none -size  $svg_icon "${svg_icon%.svg}.png"
