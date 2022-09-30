@@ -6,7 +6,9 @@ mehmetumit@github:/$ command -v profile_renderer >/dev/null && whoami 2>/dev/nul
 # Hello I'm [Mehmet Ümit Özden](https://mehmetumit.tech) 👋
 ## Languages and Technologies
 ![javascript](assets/icons/javascript.png)
+![sh](assets/icons/sh.png)
 ![typescript](assets/icons/typescript.png)
+![python](assets/icons/python.png)
 ![java](assets/icons/java.png)
 ![c](assets/icons/c.png)
 ![cpp](assets/icons/cpp.png)
@@ -21,7 +23,6 @@ mehmetumit@github:/$ command -v profile_renderer >/dev/null && whoami 2>/dev/nul
 ![maven](assets/icons/maven.png)
 ![vim](assets/icons/vim.png)
 ![tmux](assets/icons/tmux.png)
-![sh](assets/icons/sh.png)
 ![aws](assets/icons/aws.png)
 ![git](assets/icons/git.png)
 ![docker](assets/icons/docker.png)
@@ -31,6 +32,7 @@ mehmetumit@github:/$ command -v profile_renderer >/dev/null && whoami 2>/dev/nul
 ![insomnia](assets/icons/insomnia.png)
 ![gnu](assets/icons/gnu.png)
 ![latex](assets/icons/latex.png)
+![dwm](assets/icons/dwm.png)
 ![linux](assets/icons/linux.png)
 ![arch](assets/icons/arch.png)
 ![debian](assets/icons/debian.png)
