@@ -32,4 +32,4 @@ mehmetumit@github:/$ command -v profile_renderer >/dev/null && whoami 2>/dev/nul
 <a href="https://www.gnu.org/home.en.html"><img alt="gnu" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Heckert_GNU_white.svg" width="40" height="40"></a>
 <a href="https://www.cncf.io"><img alt="cncf" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Cloud_Native_Computing_Foundation_2023_logo.svg" width="100" height="40"></a>
 
-[![sponsor me](assets/images/sponsor.png)](https://github.com/sponsors/mehmetumit)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mehmetumit&show_icons=true&theme=dark)
